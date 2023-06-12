@@ -1,0 +1,1 @@
+Optimized for write performance, unlike [[B-Trees]] which are optimized for read performance.
