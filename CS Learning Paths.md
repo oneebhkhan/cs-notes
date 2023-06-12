@@ -1,5 +1,5 @@
 ## Data Engineering
-* [Educative - Become Database Professional](https://www.educative.io/path/become-database-professional (4 modules, 22 hours) - <mark style="background: #FFB86CA6;">IN PROGRESS</mark> (4 modules, 22 hours) #resource #online-course 
+* [Educative - Become Database Professional](https://www.educative.io/path/become-database-professional) - <mark style="background: #FFB86CA6;">IN PROGRESS</mark> (4 modules, 22 hours) #resource #online-course 
 * [Educative - Become A Big Data Professional](https://www.educative.io/path/become-a-big-data-professional) (3 modules, 26 hours) #resource #online-course 
 * [Educative - Python for Programmers](https://www.educative.io/path/python-for-programmers) (5 modules, 31 hours) #resource #online-course 
 * Designing Data Intensive Applications #resource #technical-book 
