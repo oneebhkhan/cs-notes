@@ -1,5 +1,5 @@
 # README
-Notes I take for all things CS. All of these notes reside locally in my Obsidian vault. 
+These are all the I take for all things CS. All of these notes reside locally in my Obsidian vault. 
 Some docs will be short and incomplete, some will have greater depth. This repository is an exercise in humility.
 
 Since this repository is hosted in Obsidian locally, there is some Obsidian specific syntax that will not show up on the remote repository, 
