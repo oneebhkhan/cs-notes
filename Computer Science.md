@@ -45,6 +45,10 @@ Programming Types:
 34. Groovy
 35. [[Off by one problem]]
 36. [[Cache invalidation]]
+37. Splunk for Logs
+38. DataDog for Metrics
+39. NGINX
+40. PostGRES EXCLUDE
 
 
 ## [[CS Learning Paths]]
