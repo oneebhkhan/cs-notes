@@ -1,6 +1,6 @@
 
 ## Topic Partitions
-[[Sharding]] in Kafka is called Partitioning.
+[[Sharding]] in Kafka is called Partitioning. [[B-Trees]]
 
 Topics in Kafka are partitioned, i.e. a topic is spread over a number of "buckets" located on different [[Kafka Brokers]]. <mark style="background: #FFB8EBA6;">The distributed placement is key for scalability because it allows client applications to both **read** and **write** the data from/to many brokers simultaneously</mark>.
 

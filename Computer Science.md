@@ -1,3 +1,24 @@
+[[Algorithms & Data Structures]]
+[[Architecture]]
+[[Blockchain]]
+[[CI CD]]
+[[Cloud]]
+[[Containers]]
+[[Data Engineering]]
+[[Distributed Systems]]
+[[High Performance Computing]]
+[[Logs, Metrics, Traces]]
+[[Machine Learning]]
+[[Networks]]
+[[Parallel Programming]]
+[[Scientific Computing]]
+[[Scripting]]
+[[Security]]
+[[Shells & Terminals]]
+[[Storage]]
+[[System Design]]
+[[Web Development]]
+
 Programming Types:
 - OOP
 - [[Functional Programming]] (?)
@@ -49,6 +70,9 @@ Programming Types:
 38. DataDog for Metrics
 39. NGINX
 40. PostGRES EXCLUDE
+41. Referential Integrity
+42. JMX
+43. gRPC vs REST and http version difference
 
 
 ## [[CS Learning Paths]]
