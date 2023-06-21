@@ -47,20 +47,20 @@
  
 - [LinkedIn - Model Registry](https://www.linkedin.com/feed/update/urn:li:activity:7010876299460108288/)
 
-- O'Reilly - Introducing MLOps #resource #technical-book
-* O'Reilly - Practical MLOps: Operationalizing ML Models #resource #technical-book 
-* O'Reilly - Hands-On Machine Learning with Scikit-Learn and Tensorflow #resource #technical-book 
-* O'Reilly - Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications #resource #technical-book 
-* O'Reilly - Building Machine Learning Powered Applications #resource #technical-book 
-* O'Reilly - Machine Learning Design Patterns #resource #technical-book 
-* O'Reilly - Kubeflow for Machine Learning #resource #technical-book 
+- O'Reilly - Introducing MLOps #technical-book
+* O'Reilly - Practical MLOps: Operationalizing ML Models #technical-book 
+* O'Reilly - Hands-On Machine Learning with Scikit-Learn and Tensorflow #technical-book 
+* O'Reilly - Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications #technical-book 
+* O'Reilly - Building Machine Learning Powered Applications  #technical-book 
+* O'Reilly - Machine Learning Design Patterns #technical-book 
+* O'Reilly - Kubeflow for Machine Learning #technical-book 
 
-- [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained) #resource 
+- [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained) #research-paper
 
 ## Data Science
-* [Educative - Become A Data Scientist](https://www.educative.io/path/become-a-data-scientist) (5 modules, 57 hours) #resource #online-course 
-* [Coursera - Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) #resource #online-course 
-* [DS Interview Guide](https://docs.google.com/presentation/d/10uAeK0cwzIMB5CLE2ovigTSdi9ZRQodNHg0RSFVq2qw/edit#slide=id.gd83dc5133b_0_85) #resource 
+* [Educative - Become A Data Scientist](https://www.educative.io/path/become-a-data-scientist) (5 modules, 57 hours) #online-course 
+* [Coursera - Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) #online-course 
+* [DS Interview Guide](https://docs.google.com/presentation/d/10uAeK0cwzIMB5CLE2ovigTSdi9ZRQodNHg0RSFVq2qw/edit#slide=id.gd83dc5133b_0_85) 
 
 
 ## Data Visualization
