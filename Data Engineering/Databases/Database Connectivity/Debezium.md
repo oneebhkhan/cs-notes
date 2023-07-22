@@ -13,3 +13,6 @@ Support for the following YugabyteDB data types will be enabled in future releas
 	-   TSVECTOR
 	-   TXID_SNAPSHOT
 
+### How Debezium works?
+
+What is a Bin Log? Where does Debezium read from?

@@ -1,13 +1,16 @@
+## Algorithms
+* Cracking the Coding Interview #technical-book 
+
 ## Data Engineering
 * [Coursera - Data Engineering Foundations](https://www.coursera.org/specializations/data-engineering-foundations) #online-course  
 ### Data Architecture
-* [O'Reilly - Designing Data Intensive Applications](https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-intensive-applications.pdf) #technical-book 
+* [O'Reilly - Designing Data Intensive Applications](https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-intensive-applications.pdf) <mark style="background: #FFB86CA6;">IN PROGRESS</mark> #technical-book #in-progress
 ### Orchestration
 - KubeFlow
 - Prefect
 - AirFlow
 ### Databases
-* [Educative - Become Database Professional](https://www.educative.io/path/become-database-professional) - <mark style="background: #FFB86CA6;">IN PROGRESS</mark> (4 modules, 22 hours) #online-course 
+* [Educative - Become Database Professional](https://www.educative.io/path/become-database-professional) - <mark style="background: #FFB86CA6;">IN PROGRESS</mark> (4 modules, 22 hours) #online-course #in-progress 
 * [Coursera - Database Engineer Professional](https://www.coursera.org/professional-certificates/meta-database-engineer) #online-course 
 #### Relational Databases
 - PostGRES
@@ -44,7 +47,12 @@
 ## MLOps
 - [Educative - Become an ML Engineer](https://www.educative.io/path/become-a-machine-learning-engineer) (6 modules, 22 hours) #online-course 
 - [MadeWithML - MLOps Course](https://madewithml.com/courses/mlops/) #online-course 
- 
+- [DeepLearning.AI - ML Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/) (3 courses) #online-course 
+* [DeepLearning.AI - Mathematics for ML and DS Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) (3 courses) #online-course 
+* [DeepLearning.AI - TensorFlow Professional Certificate](https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate/) #online-course 
+* [DeepLearning.AI - TensorFlow Advanced Specialization](https://www.deeplearning.ai/courses/tensorflow-advanced-techniques-specialization/) #online-course 
+* [DeepLearning.AI - MLOps Specialization](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/) (4 courses) #online-course
+* [DeepLearning.AI - Practical DS on the Cloud](https://www.deeplearning.ai/courses/practical-data-science-specialization/) #online-course 
 - [LinkedIn - Model Registry](https://www.linkedin.com/feed/update/urn:li:activity:7010876299460108288/)
 
 - O'Reilly - Introducing MLOps #technical-book
@@ -61,6 +69,9 @@
 * [Educative - Become A Data Scientist](https://www.educative.io/path/become-a-data-scientist) (5 modules, 57 hours) #online-course 
 * [Coursera - Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) #online-course 
 * [DS Interview Guide](https://docs.google.com/presentation/d/10uAeK0cwzIMB5CLE2ovigTSdi9ZRQodNHg0RSFVq2qw/edit#slide=id.gd83dc5133b_0_85) 
+* [DeepLearning.AI - AI for Good](https://www.deeplearning.ai/courses/ai-for-good/) #online-course 
+* [DeepLearning.AI - AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) #online-course 
+
 
 
 ## Data Visualization

@@ -9,3 +9,4 @@
 9. [[Randomized - Chernoff Bounds]]
 10. [[Randomized - Load Balancing]]
 11. [[Randomized - Packet Routing]]
+12. [[Random Graph Models]]

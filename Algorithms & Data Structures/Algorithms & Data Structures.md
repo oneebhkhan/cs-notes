@@ -6,3 +6,4 @@
 6. [[Inverted Index]] (used in Doc storages)
 7. [[Suffix Tree]] (for text based)
 8. [[R Tree]] (for spatial databases)
+9. [[Minimum Spanning Trees]]
